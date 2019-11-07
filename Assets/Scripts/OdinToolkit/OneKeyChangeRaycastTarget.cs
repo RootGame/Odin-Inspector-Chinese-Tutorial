@@ -1,8 +1,12 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
+
+#endregion
 
 [TypeInfoBox("批量选中或者取消对应UI上的Raycast")]
 public class OneKeyChangeRaycastTarget : SerializedScriptableObject

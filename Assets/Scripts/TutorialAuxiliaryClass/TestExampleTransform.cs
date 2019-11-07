@@ -1,6 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿#region
+
 using UnityEngine;
+
+#endregion
 
 // 您还可以直接在类定义本身上使用InlineEditor属性。
 //[InlineEditor]

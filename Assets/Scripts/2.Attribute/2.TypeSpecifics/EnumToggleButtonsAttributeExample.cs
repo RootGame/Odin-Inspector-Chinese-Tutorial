@@ -1,8 +1,11 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEngine;
 
+#endregion
 
-    public class EnumToggleButtonsAttributeExample : MonoBehaviour
+public class EnumToggleButtonsAttributeExample : MonoBehaviour
     {
         [Title("Default")]
         public SomeBitmaskEnum DefaultEnumBitmask;

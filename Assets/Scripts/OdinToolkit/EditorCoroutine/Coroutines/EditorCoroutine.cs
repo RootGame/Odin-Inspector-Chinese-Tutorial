@@ -1,8 +1,12 @@
 ﻿
+#region
+
 using System;
 using System.Collections;
 using System.Reflection;
 using UnityEngine;
+
+#endregion
 
 public class EditorCoroutine : ICoroutine
 {

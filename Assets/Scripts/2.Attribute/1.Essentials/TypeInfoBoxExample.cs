@@ -1,6 +1,10 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
 using System;
+using Sirenix.OdinInspector;
 using UnityEngine;
+
+#endregion
 
 public class TypeInfoBoxExample : MonoBehaviour
 {

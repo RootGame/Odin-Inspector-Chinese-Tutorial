@@ -1,6 +1,9 @@
-﻿using UnityEngine;
+﻿#region
+
 using Sirenix.OdinInspector;
-using Sirenix.Serialization;
+using UnityEngine;
+
+#endregion
 
 namespace D_Game.Demo
 {

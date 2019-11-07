@@ -1,5 +1,9 @@
-﻿using UnityEngine;
+﻿#region
+
 using Sirenix.OdinInspector;
+using UnityEngine;
+
+#endregion
 
 public class ChildGameObjectsOnlyAttributeExample : MonoBehaviour
     {

@@ -1,8 +1,12 @@
-﻿using UnityEngine;
-using Sirenix.OdinInspector;
+﻿#region
+
 using System;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+#endregion
 
 public class ColorPaletteAttributeExample : MonoBehaviour
 {

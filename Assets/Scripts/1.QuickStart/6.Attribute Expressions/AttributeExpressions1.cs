@@ -1,6 +1,10 @@
-﻿using UnityEngine;
-using Sirenix.OdinInspector;
+﻿#region
+
 using System;
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+#endregion
 
 namespace D_Game.Demo
 {

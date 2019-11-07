@@ -1,14 +1,13 @@
-﻿using Sirenix.OdinInspector.Editor;
-using Sirenix.OdinInspector;
-using Sirenix.OdinValidator;
-using Sirenix.Serialization;
-using Sirenix.Utilities;
-using System;
-using System.Collections;
+﻿#region
+
 using System.Collections.Generic;
-using System.Linq;
+using Sirenix.OdinInspector;
+using Sirenix.OdinInspector.Editor;
 using UnityEditor;
 using UnityEngine;
+//using Sirenix.OdinValidator;
+
+#endregion
 
 public class MyHybridEditorWindowOne : OdinEditorWindow
 {

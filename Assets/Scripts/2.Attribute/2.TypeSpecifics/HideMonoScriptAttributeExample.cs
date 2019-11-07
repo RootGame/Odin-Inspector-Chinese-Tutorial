@@ -1,9 +1,11 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEngine;
 
+#endregion
 
-
-    public class HideMonoScriptAttributeExample : MonoBehaviour
+public class HideMonoScriptAttributeExample : MonoBehaviour
     {
     [InfoBox("Click the pencil icon to open new inspector for these fields.")]
     public TestHideMonoScript Hidden;

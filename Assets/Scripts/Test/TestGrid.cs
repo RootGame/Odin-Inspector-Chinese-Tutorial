@@ -1,15 +1,10 @@
-﻿using Sirenix.OdinInspector.Editor;
+﻿#region
+
 using Sirenix.OdinInspector;
-using Sirenix.OdinValidator;
-using Sirenix.Serialization;
-using Sirenix.Utilities;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
+
+#endregion
 
 public class TestGrid : MonoBehaviour
 {

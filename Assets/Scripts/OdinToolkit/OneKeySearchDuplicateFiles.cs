@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections;
+﻿#region
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.Timeline;
 using Sirenix.OdinInspector;
-using Sirenix.OdinInspector.Editor;
 using UnityEditor;
-using System.Threading;
+using UnityEngine;
+
+#endregion
 
 public class OneKeySearchDuplicateFiles : SerializedScriptableObject
 {

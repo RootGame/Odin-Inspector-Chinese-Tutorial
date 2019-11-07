@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿#region
+
+using System.Collections;
+
+#endregion
+
 internal interface ICoroutine
 {
     IYield CurrentYield { get; set; }

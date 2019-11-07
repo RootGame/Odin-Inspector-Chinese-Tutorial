@@ -1,6 +1,9 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEngine;
 
+#endregion
 
 [CreateAssetMenu(fileName = "MyScripty_ScriptableObject", menuName = "CreatScriptableObject/MyScripty")]
 [TypeInfoBox("TypeInfoBox 特性 能以文本的形式显示在顶端 。例如, MonoBehaviours or ScriptableObjects.")]

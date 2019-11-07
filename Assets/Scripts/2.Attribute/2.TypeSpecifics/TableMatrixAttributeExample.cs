@@ -1,6 +1,10 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using Sirenix.Utilities;
 using UnityEngine;
+
+#endregion
 
 public class TableMatrixAttributeExample : MonoBehaviour
 {

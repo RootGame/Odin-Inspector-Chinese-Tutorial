@@ -1,9 +1,12 @@
-﻿using Sirenix.OdinInspector;
-using Sirenix.Serialization;
+﻿#region
+
 using System;
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
+using Sirenix.Serialization;
 using UnityEngine;
 
+#endregion
 
 public class ExampleOdinSerializedScript : SerializedMonoBehaviour
 {

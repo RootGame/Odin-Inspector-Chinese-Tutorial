@@ -1,11 +1,13 @@
 ﻿
+#region
+
 using System.Collections;
-using UnityEditor;
+using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.Networking;
-using Sirenix.Utilities.Editor;
-using Sirenix.Utilities;
-using Sirenix.OdinInspector;
+
+#endregion
+
 public class EditorCoroutineDemo : SerializedScriptableObject
 {
     private EditorCoroutine loopEveryTwoSecondsHandle;

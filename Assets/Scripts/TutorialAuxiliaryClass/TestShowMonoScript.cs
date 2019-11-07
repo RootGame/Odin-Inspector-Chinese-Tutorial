@@ -1,6 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿#region
+
 using UnityEngine;
+
+#endregion
 
 [CreateAssetMenu(fileName = "ShowMonoScript_ScriptableObject", menuName = "CreatScriptableObject/ShowMonoScript")]
 public class TestShowMonoScript : ScriptableObject

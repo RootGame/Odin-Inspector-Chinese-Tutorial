@@ -1,5 +1,9 @@
 ﻿
+#region
+
 using System.Collections;
+
+#endregion
 
 internal class EditorCoroutineFactory : ICoroutineFactory<EditorCoroutine>
 {

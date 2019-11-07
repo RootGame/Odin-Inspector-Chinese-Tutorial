@@ -1,8 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using Sirenix.OdinInspector;
+﻿#region
+
 using System;
+using System.Collections.Generic;
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+#endregion
 
 public class ExampleScript : MonoBehaviour
 {

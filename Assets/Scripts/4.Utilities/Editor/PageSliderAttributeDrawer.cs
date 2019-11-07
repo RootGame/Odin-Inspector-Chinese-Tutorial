@@ -1,9 +1,13 @@
-﻿using Sirenix.OdinInspector.Editor;
-using Sirenix.Utilities;
-using Sirenix.Utilities.Editor;
+﻿#region
+
 using System;
 using System.Linq;
+using Sirenix.OdinInspector.Editor;
+using Sirenix.Utilities;
+using Sirenix.Utilities.Editor;
 using UnityEngine;
+
+#endregion
 
 [DrawerPriority(0, 200, 0)]
 public class PageSliderAttributeDrawer : OdinAttributeDrawer<PageSliderAttribute>

@@ -1,8 +1,11 @@
-﻿using UnityEngine;
+﻿#region
 
-using Sirenix.OdinInspector;
-using System;
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+#endregion
+
 public class AssetSelectorAttributeExample : MonoBehaviour
 {
     [AssetSelector]

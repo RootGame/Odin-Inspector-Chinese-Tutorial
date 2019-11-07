@@ -1,10 +1,14 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
 using System;
 using System.Collections;
+using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+
+#endregion
 
 [RequireComponent(typeof(Image), typeof(Animator))]
 public class AnimatedButton : UIBehaviour, IPointerClickHandler

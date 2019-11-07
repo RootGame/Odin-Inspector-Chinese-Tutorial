@@ -1,9 +1,13 @@
-﻿using System;
+﻿#region
+
+using System;
 using System.Collections;
 using System.Reflection;
 using UnityEditor;
 
-    /// <summary>
+#endregion
+
+/// <summary>
     /// Static service to help start EditorCoroutines.
     /// </summary>
     public static class EditorCoroutineService

@@ -1,9 +1,13 @@
-﻿using Sirenix.OdinInspector;
-using Sirenix.Utilities;
+﻿#region
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Sirenix.OdinInspector;
+using Sirenix.Utilities;
 using UnityEngine;
+
+#endregion
 
 public class TypeFilterExample : MonoBehaviour
 {

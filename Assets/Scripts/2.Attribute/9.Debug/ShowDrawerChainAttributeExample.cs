@@ -1,11 +1,11 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
 using System;
-using System.Collections;
-using System.Collections.Generic;
+using Sirenix.OdinInspector;
 using UnityEngine;
-using Sirenix.Utilities;
-using Sirenix.OdinValidator;
-using Sirenix.Serialization;
+//using Sirenix.OdinValidator;
+
+#endregion
 
 public class ShowDrawerChainAttributeExample : MonoBehaviour
 {

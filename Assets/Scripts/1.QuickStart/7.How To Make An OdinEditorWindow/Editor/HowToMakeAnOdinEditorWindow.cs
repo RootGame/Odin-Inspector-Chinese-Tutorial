@@ -1,10 +1,14 @@
-﻿using UnityEngine;
+﻿#region
+
+using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using Sirenix.OdinInspector.Editor;
 using UnityEditor;
-using System.Collections.Generic;
+using UnityEngine;
 
-    public class SomeWindowOne : OdinEditorWindow
+#endregion
+
+public class SomeWindowOne : OdinEditorWindow
     {
         [MenuItem("My Game/My Window1")]
         private static void OpenWindow()

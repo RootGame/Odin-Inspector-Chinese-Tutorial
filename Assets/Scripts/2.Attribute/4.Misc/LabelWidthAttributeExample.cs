@@ -1,7 +1,9 @@
-﻿using Sirenix.OdinInspector;
-using System.Collections;
-using System.Collections.Generic;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEngine;
+
+#endregion
 
 public class LabelWidthAttributeExample : MonoBehaviour
 {

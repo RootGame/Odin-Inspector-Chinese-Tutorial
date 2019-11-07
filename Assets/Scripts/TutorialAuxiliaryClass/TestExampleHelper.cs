@@ -1,8 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.IO;
+﻿#region
+
 using UnityEditor;
 using UnityEngine;
+
+#endregion
 
 public static class TestExampleHelper
 {

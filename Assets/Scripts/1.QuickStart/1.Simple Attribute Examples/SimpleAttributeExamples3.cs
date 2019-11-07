@@ -1,7 +1,9 @@
-﻿using UnityEngine;
+﻿#region
 
 using Sirenix.OdinInspector;
-using System;
+using UnityEngine;
+
+#endregion
 
 namespace D_Game.Demo
 {

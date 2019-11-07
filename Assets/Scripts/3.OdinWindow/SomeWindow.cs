@@ -1,9 +1,12 @@
-﻿using Sirenix.OdinInspector;
-using Sirenix.OdinInspector.Editor;
-using System.Collections;
+﻿#region
+
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
+using Sirenix.OdinInspector.Editor;
 using UnityEditor;
 using UnityEngine;
+
+#endregion
 
 
 /*

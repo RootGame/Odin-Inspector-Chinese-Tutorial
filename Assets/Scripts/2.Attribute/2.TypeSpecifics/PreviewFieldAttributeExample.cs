@@ -1,7 +1,9 @@
-﻿using Sirenix.OdinInspector;
-using UnityEngine;
-using UnityEngine.UI;
+﻿#region
 
+using Sirenix.OdinInspector;
+using UnityEngine;
+
+#endregion
 
 public class PreviewFieldAttributeExample : MonoBehaviour
 {

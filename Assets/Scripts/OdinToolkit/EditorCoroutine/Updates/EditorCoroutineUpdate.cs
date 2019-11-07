@@ -1,4 +1,8 @@
-﻿using UnityEditor;
+﻿#region
+
+using UnityEditor;
+
+#endregion
 
 internal class EditorCoroutineUpdate : IUpdateService<EditorCoroutine>
 {

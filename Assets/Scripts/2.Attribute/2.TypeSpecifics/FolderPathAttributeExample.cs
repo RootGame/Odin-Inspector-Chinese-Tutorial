@@ -1,5 +1,10 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEngine;
+
+#endregion
+
 public class FolderPathAttributeExample : MonoBehaviour
 {
     // 默认情况下，FolderPath提供了一个相对于Unity项目的路径。

@@ -1,11 +1,12 @@
-﻿using Sirenix.OdinInspector;
-using Sirenix.OdinInspector.Editor;
-using Sirenix.Utilities.Editor;
-using System.Collections;
+﻿#region
+
 using System.Collections.Generic;
-using System.Linq;
+using Sirenix.OdinInspector;
+using Sirenix.OdinInspector.Editor;
 using UnityEditor;
 using UnityEngine;
+
+#endregion
 
 public class MyMenuEditorWindow : OdinMenuEditorWindow
 {

@@ -1,5 +1,9 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEngine;
+
+#endregion
 
 public class ShowIfGroupAttributeExample : MonoBehaviour
 {

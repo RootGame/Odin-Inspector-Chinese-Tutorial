@@ -1,14 +1,10 @@
-﻿using Sirenix.OdinInspector.Editor;
-using Sirenix.OdinInspector;
-using Sirenix.OdinValidator;
-using Sirenix.Serialization;
-using Sirenix.Utilities;
-using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿#region
+
 using System.Linq;
+using Sirenix.OdinInspector.Editor;
 using UnityEditor;
-using UnityEngine;
+
+#endregion
 
 public class MyTreeEditorWindow : OdinMenuEditorWindow
 {

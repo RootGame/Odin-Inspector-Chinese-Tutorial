@@ -1,7 +1,10 @@
-﻿using System.Collections;
+﻿#region
 
+using System.Collections;
 
-    internal interface ICoroutineFactory<out T> where T : ICoroutine
+#endregion
+
+internal interface ICoroutineFactory<out T> where T : ICoroutine
     {
         T Create (object owner, IEnumerator routine);
 

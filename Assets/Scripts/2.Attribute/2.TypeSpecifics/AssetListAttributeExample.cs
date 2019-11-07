@@ -1,7 +1,10 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
+#endregion
 
 public class AssetListAttributeExample : MonoBehaviour
 {

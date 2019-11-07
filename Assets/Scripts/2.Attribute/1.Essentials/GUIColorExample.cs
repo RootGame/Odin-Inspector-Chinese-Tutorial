@@ -1,6 +1,10 @@
-﻿using Sirenix.OdinInspector;
+﻿#region
+
+using Sirenix.OdinInspector;
 using UnityEditor;
 using UnityEngine;
+
+#endregion
 
 public class GUIColorExample : MonoBehaviour
 {
